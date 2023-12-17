@@ -1,0 +1,10 @@
+
+ a[href="https://www.youtube.com/"],
+ a[href="https://validator.w3.org/"] {
+  color: red;
+}
+  ul.list + p {
+    font-size: 24px;
+  }
+  
+  
